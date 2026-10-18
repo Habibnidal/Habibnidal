@@ -62,8 +62,8 @@ A Django-based restaurant management application with customer ordering and rest
 I'm interested in opportunities involving AI automation, software development, backend engineering, and business systems integration.
 
 - **GitHub:** [@Habibnidal](https://github.com/Habibnidal)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Portfolio:** [habibportfolio](https://github.com/Habibnidal/habibportfolio)
+- **LinkedIn:** [linkedin.com/in/habibnidal](https://www.linkedin.com/in/habibnidal/)
+- **Portfolio:** [habibnidal.s.gy](https://habibnidal.s.gy)
 
 ---
 *Building useful solutions with AI, software, and business automation.*
