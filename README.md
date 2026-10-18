@@ -1,14 +1,17 @@
 # Hey, I'm Habib 👋
 
-### AI Automation Engineer · Software Developer · Business Systems Integration
+### AI Automation Engineer | Python & FastAPI Developer | Business Systems Integration
 
-I build practical automations, connect business applications, and develop software that reduces repetitive work and improves operational workflows. My interests sit at the intersection of AI, backend development, APIs, and business systems.
+I build AI-powered workflows, backend APIs, and integrations that help businesses reduce repetitive tasks and connect their tools more effectively. My work combines **workflow automation, Python development, REST APIs, and AI integrations** to solve practical business problems.
+
+I'm especially interested in opportunities across **AI automation, backend development, and CRM/business application integration**.
 
 ## 🚀 What I Work On
 
 - **AI & Workflow Automation:** n8n workflows, LLM integrations, document processing, validation, duplicate detection, and webhooks
-- **Business Systems Integration:** CRM and finance workflows, REST APIs, application integrations, and process automation
-- **Software Development:** Python, Django, JavaScript, backend services, and database-backed applications
+- **Backend & API Development:** Python, FastAPI, Django, REST APIs, and database-backed applications
+- **Business Systems Integration:** CRM and finance workflows, application integrations, and process automation
+- **Frontend Development:** HTML, CSS, and JavaScript
 - **Tools & Deployment:** Docker, AWS EC2, Google Workspace integrations, Git, and GitHub
 
 ## ⭐ Featured Projects
@@ -44,26 +47,27 @@ A Django-based restaurant management application with customer ordering and rest
 ## 🧰 Technical Toolkit
 
 **Languages:** Python · JavaScript · SQL · HTML · CSS  
-**Automation:** n8n · Workflow Design · Webhooks · API Orchestration  
 **Backend:** FastAPI · Django · REST APIs · Database Integration  
+**Automation:** n8n · Workflow Design · Webhooks · API Orchestration  
+**AI Integrations:** LLM APIs · AI-powered document processing  
 **Business Systems:** Zoho applications · CRM and finance process integration  
-**Infrastructure:** Docker · AWS EC2 · Git · GitHub
+**Tools & Infrastructure:** Docker · AWS EC2 · Git · GitHub
 
 ## 🎯 Areas of Interest
 
 - AI-powered business process automation
-- CRM and finance application integration
 - Backend development and API engineering
+- CRM and finance application integration
 - Intelligent document processing
-- Reliable, maintainable business applications
+- Building reliable, maintainable business applications
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities involving AI automation, software development, backend engineering, and business systems integration.
+I'm interested in opportunities involving **AI automation, Python/FastAPI development, backend engineering, and business systems integration**.
 
 - **GitHub:** [@Habibnidal](https://github.com/Habibnidal)
 - **LinkedIn:** [linkedin.com/in/habibnidal](https://www.linkedin.com/in/habibnidal/)
 - **Portfolio:** [habibnidal.s.gy](https://habibnidal.s.gy)
 
 ---
-*Building useful solutions with AI, software, and business automation.*
+*Building practical solutions with AI, software, and business automation.*
