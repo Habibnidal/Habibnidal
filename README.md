@@ -27,12 +27,12 @@ An AI-assisted recruitment workflow designed to organize applications, parse res
 
 [View repository →](https://github.com/Habibnidal/AI-Recruitment-Screening-ATS-Automation-Platform)
 
-### 3. Veloria Backend
-Backend project for the Veloria application, focused on server-side functionality and application support.
+### 3. Veloria — Full-Stack Web Application
+A full-stack web application with a frontend built using HTML, CSS, and JavaScript, supported by a FastAPI backend for server-side logic and API endpoints.
 
-**Technologies:** Backend development · API/application services
+**Technologies:** HTML · CSS · JavaScript · Python · FastAPI · REST APIs
 
-[View repository →](https://github.com/Habibnidal/life_backend)
+[View backend repository →](https://github.com/Habibnidal/life_backend) · [View frontend repository →](https://github.com/Habibnidal/life-_support_frontend)
 
 ### 4. FoodHub Restaurant Management System
 A Django-based restaurant management application with customer ordering and restaurant/vendor administration workflows.
@@ -45,7 +45,7 @@ A Django-based restaurant management application with customer ordering and rest
 
 **Languages:** Python · JavaScript · SQL · HTML · CSS  
 **Automation:** n8n · Workflow Design · Webhooks · API Orchestration  
-**Backend:** Django · REST APIs · Database Integration  
+**Backend:** FastAPI · Django · REST APIs · Database Integration  
 **Business Systems:** Zoho applications · CRM and finance process integration  
 **Infrastructure:** Docker · AWS EC2 · Git · GitHub
 
